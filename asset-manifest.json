@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0516c1e5.chunk.css",
+    "main.js": "/static/js/main.0cf5e82c.chunk.js",
+    "main.js.map": "/static/js/main.0cf5e82c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.17745b86.js",
+    "runtime-main.js.map": "/static/js/runtime-main.17745b86.js.map",
+    "static/js/2.fb48b26b.chunk.js": "/static/js/2.fb48b26b.chunk.js",
+    "static/js/2.fb48b26b.chunk.js.map": "/static/js/2.fb48b26b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b8f8ba390e6d01c25590b4f5d468f010.js": "/precache-manifest.b8f8ba390e6d01c25590b4f5d468f010.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0516c1e5.chunk.css.map": "/static/css/main.0516c1e5.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/asl.png": "/static/media/asl.e61edec8.png",
+    "static/media/autoronto.png": "/static/media/autoronto.a0b4078c.png",
+    "static/media/chikoo.png": "/static/media/chikoo.0f30f6f5.png",
+    "static/media/cuhk.png": "/static/media/cuhk.395f35e9.png",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/felix.gif": "/static/media/felix.6263124b.gif",
+    "static/media/fh.png": "/static/media/fh.fb64a1af.png",
+    "static/media/footprints.gif": "/static/media/footprints.df4d029e.gif",
+    "static/media/game.gif": "/static/media/game.60809c60.gif",
+    "static/media/htn.png": "/static/media/htn.d3cd066a.png",
+    "static/media/koin.png": "/static/media/koin.8cea1999.png",
+    "static/media/photovolt.jpg": "/static/media/photovolt.81605183.jpg",
+    "static/media/robosoccer.png": "/static/media/robosoccer.c41a775c.png",
+    "static/media/sm.JPG": "/static/media/sm.48d29197.JPG",
+    "static/media/undraw_Data_report_re_p4so.svg": "/static/media/undraw_Data_report_re_p4so.10802dda.svg",
+    "static/media/undraw_collab_8oes.svg": "/static/media/undraw_collab_8oes.0f7f1d1e.svg",
+    "static/media/undraw_product_iteration_kjok.svg": "/static/media/undraw_product_iteration_kjok.b36e664a.svg",
+    "static/media/undraw_reading_time_gvg0.svg": "/static/media/undraw_reading_time_gvg0.b88639b8.svg",
+    "static/media/undraw_world_9iqb.svg": "/static/media/undraw_world_9iqb.6ff5397e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17745b86.js",
+    "static/js/2.fb48b26b.chunk.js",
+    "static/css/main.0516c1e5.chunk.css",
+    "static/js/main.0cf5e82c.chunk.js"
+  ]
+}
